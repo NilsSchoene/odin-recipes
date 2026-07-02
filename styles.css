@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+body {
+    background-color: mediumseagreen;
+}
+
+h1,
+h2 {
+    text-align: center;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+.recipe-list {
+    margin: 0 auto;
+    border: 2px dashed black;
+    width: 300px;
+    padding: 10px;
+}
+
+.recipe-link {
+    text-align: center;
+    margin: 10px 0;
+}
+
+.recipe-link a {
+    background-color: rgb(105, 209, 105);
+    padding: 3px;
+    border: 1px solid black;
+}
