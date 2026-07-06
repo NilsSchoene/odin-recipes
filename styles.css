@@ -31,3 +31,17 @@ h2 {
     padding: 3px;
     border: 1px solid black;
 }
+
+ul li,
+ol li {
+    text-align: left;
+}
+
+ol li {
+    margin: 10px 0;
+}
+
+.content {
+    width: 600px;
+    margin: 0 auto;
+}
